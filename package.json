@@ -1,6 +1,6 @@
 {
     "name": "@twoavy/twoavy-deloader",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Download files",
     "main": "index.js",
     "scripts": {
@@ -8,14 +8,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+ssh://git@github.com/twoavy/twoavy-download.git"
+        "url": "git+ssh://git@github.com/twoavy/twoavy-deloader.git"
     },
     "author": "2av GmbH",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/twoavy/twoavy-download/issues"
+        "url": "https://github.com/twoavy/twoavy-deloader/issues"
     },
-    "homepage": "https://github.com/twoavy/twoavy-download#readme",
+    "homepage": "https://github.com/twoavy/twoavy-deloader#readme",
     "keywords": [
         "download",
         "extract",
